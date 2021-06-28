@@ -1,1 +1,2 @@
 # buhOne
+company landing page
